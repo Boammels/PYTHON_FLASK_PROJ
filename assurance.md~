@@ -1,0 +1,12 @@
+Strategies followed to ensure we met client spec:
+ - Verification
+ - Validation
+
+Strategies followed to ensure our code worked:
+ - Throughout the process we are making sure that the code on the master branch 
+ always contains correct and functional code, and only pushing to master once we 
+ have done proficient testing od the function being pushed.
+ - Each team member will have their own branch to work from allowing multiple
+ people to work on the same files if necessary. 
+ - We also used python3-coverage in order to check whether our tests 
+ comprehensively tested the functions being written.
